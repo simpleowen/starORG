@@ -1,6 +1,6 @@
 # starORG
 
-Github has not provided the API for starring an organization yet, so i star it in this repo.
+Github has not provided the API for starring an organization or team yet, so i star them in this repo. Now team is private.
 
 - [Microsoft](https://github.com/microsoft)
 - [Golang](https://github.com/golang)
