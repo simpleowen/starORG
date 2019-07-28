@@ -7,3 +7,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [Google](https://github.com/google)
 - [Oracle](https://github.com/oracle)
 - [Guangzhou GNU/Linux Users Group](https://github.com/gzlug)
+- [VividCortex](https://github.com/VividCortex)
