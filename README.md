@@ -14,3 +14,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [GitHub](https://github.com/github) #github #opensource
 - [OpenCyber](https://github.com/OpenCyberTranslationProject) #ebook #opensource
 - [UniDoc](https://github.com/unidoc) #pdf #golang #office
+- [PingCAP](https://github.com/pingcap) #database #tidb #golang #rust
