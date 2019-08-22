@@ -12,6 +12,7 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [GopherCon](https://github.com/gophercon) #golang #talks
 - [ShenzhenLUG](https://github.com/shenzhenlug) #linux
 - [Tsinghua University TUNA Association](https://github.com/tuna/) #linux
+- [Shanghai Linux User Group](https://github.com/shanghailug) #linux
 - [GitHub](https://github.com/github) #github #opensource
 - [OpenCyber](https://github.com/OpenCyberTranslationProject) #ebook #opensource
 - [UniDoc](https://github.com/unidoc) #pdf #golang #office
