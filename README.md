@@ -19,3 +19,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [PingCAP](https://github.com/pingcap) #database #tidb #golang #rust
 - [Ansible](https://github.com/ansible) #devops
 - [Linux.Org.TW](https://github.com/linux-taiwan) #linux
+- [Pocket](https://github.com/Pocket) #add-ons #firefox #pocket
