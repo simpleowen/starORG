@@ -6,17 +6,20 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [Golang](https://github.com/golang)
 - [Google](https://github.com/google)
 - [Oracle](https://github.com/oracle) #oracle
-- [Guangzhou GNU/Linux Users Group](https://github.com/gzlug) #linux
+- [广州 Linux 用户组](https://github.com/gzlug) #linux
 - [VividCortex](https://github.com/VividCortex) #golang #database
 - [GotGit](https://github.com/gotgit) #github #git
 - [GopherCon](https://github.com/gophercon) #golang #talks
-- [ShenzhenLUG](https://github.com/shenzhenlug) #linux
-- [Tsinghua University TUNA Association](https://github.com/tuna/) #linux
-- [Shanghai Linux User Group](https://github.com/shanghailug) #linux
+- [深圳 Linux 用户组](https://github.com/shenzhenlug) #linux #lug
+- [清华大学 TUNA 协会](https://github.com/tuna/) #linux #lug
+- [上海 Linux 用户组](https://github.com/shanghailug) #linux #lug
 - [GitHub](https://github.com/github) #github #opensource
 - [OpenCyber](https://github.com/OpenCyberTranslationProject) #ebook #opensource
 - [UniDoc](https://github.com/unidoc) #pdf #golang #office
 - [PingCAP](https://github.com/pingcap) #database #tidb #golang #rust
 - [Ansible](https://github.com/ansible) #devops
-- [Linux.Org.TW](https://github.com/linux-taiwan) #linux
+- [台湾 Linux 用户组](https://github.com/linux-taiwan) #linux #lug
 - [Pocket](https://github.com/Pocket) #add-ons #firefox #pocket
+- [兰州大学开源社区](https://github.com/LZUOSS) #linux #opensource #lug
+- [中国科学院大学开源社区](https://github.com/opencas) #linux #lug #opensource
+- [上海大学开源社区](https://github.com/shuosc) #linux #lug #opensource
