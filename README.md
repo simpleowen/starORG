@@ -26,3 +26,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [泰晓科技](https://github.com/tinyclub) #linux
 - [RIME](https://github.com/rime) #im
 - [Vim - the text editor](https://github.com/vim) #editor #vim
+- [Vim 中文社区](https://github.com/vim-china) #vim #editor
