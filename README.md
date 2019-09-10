@@ -24,3 +24,5 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [中国科学院大学开源社区](https://github.com/opencas) #linux #lug #opensource
 - [上海大学开源社区](https://github.com/shuosc) #linux #lug #opensource
 - [泰晓科技](https://github.com/tinyclub) #linux
+- [Debug U self ~ 自怼圈](https://github.com/DebugUself) #self-teach #python
+- 
