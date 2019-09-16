@@ -31,3 +31,6 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [leo-editor](https://github.com/leo-editor) #leo #editor
 - [Debug U self ~ 自怼圈](https://github.com/DebugUself) #self-teach #python
 - [MkDocs](https://github.com/mkdocs) #ssg #document #markdown
+- [docsifyjs](https://github.com/docsifyjs) #ssg 
+- [Docpress](https://github.com/docpress) #ssg
+- 
