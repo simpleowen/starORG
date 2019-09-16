@@ -34,3 +34,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [docsifyjs](https://github.com/docsifyjs) #ssg 
 - [Docpress](https://github.com/docpress) #ssg
 - [Pelican dev team](https://github.com/getpelican) #ssg
+- [Caddy](https://github.com/caddyserver) #webserver #golang
