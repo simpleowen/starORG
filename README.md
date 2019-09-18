@@ -37,4 +37,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [Caddy](https://github.com/caddyserver) #webserver #golang
 - [OfflineIMAP](https://github.com/OfflineIMAP) #email
 - [Elixir School](https://github.com/elixirschool) #elixir
-- 
+- [Elixir](https://github.com/elixir-lang) #elixir
