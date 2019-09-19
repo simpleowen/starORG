@@ -38,3 +38,5 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [OfflineIMAP](https://github.com/OfflineIMAP) #email
 - [Elixir School](https://github.com/elixirschool) #elixir
 - [Elixir](https://github.com/elixir-lang) #elixir
+- [elixir-cn](https://github.com/elixir-cn) #elixir #eug
+- 
