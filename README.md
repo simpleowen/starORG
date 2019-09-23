@@ -39,5 +39,6 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [Elixir School](https://github.com/elixirschool) #elixir
 - [Elixir](https://github.com/elixir-lang) #elixir
 - [elixir-cn](https://github.com/elixir-cn) #elixir #eug
+- [elixir-lang-china](https://github.com/elixir-lang-china) #elixir #eug
 - [phoenixframework](https://github.com/phoenixframework) #elixir #framework
 - 
