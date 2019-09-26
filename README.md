@@ -31,7 +31,7 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [leo-editor](https://github.com/leo-editor) #leo #editor
 - [Debug U self ~ 自怼圈](https://github.com/DebugUself) #self-teach #python
 - [MkDocs](https://github.com/mkdocs) #ssg #document #markdown
-- [docsifyjs](https://github.com/docsifyjs) #ssg 
+- [docsifyjs](https://github.com/docsifyjs) #ssg
 - [Docpress](https://github.com/docpress) #ssg
 - [Pelican dev team](https://github.com/getpelican) #ssg
 - [Caddy](https://github.com/caddyserver) #webserver #golang
@@ -41,4 +41,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [elixir-cn](https://github.com/elixir-cn) #elixir #eug
 - [elixir-lang-china](https://github.com/elixir-lang-china) #elixir #eug
 - [phoenixframework](https://github.com/phoenixframework) #elixir #framework
-- 
+- [Atom](https://github.com/atom) #editor #atom
