@@ -46,4 +46,4 @@ Github has not provided the API for starring an organization or team yet, so i s
 - [elves](https://github.com/elves) #cli #golang #tool
 - [XQuartz](https://github.com/XQuartz) #X11 #xserver
 - [Carbon](https://github.com/carbon-app) #sourcecode #image
-
+- [gPodder and related projects](https://github.com/gpodder) #podcast #api
